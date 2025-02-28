@@ -14,3 +14,7 @@ The Intrusion Detection System (IDS) with AI is a security solution that leverag
 - **Multi-Class Classification**: Detects multiple types of network attacks
 - **High Performance**: Achieves state-of-the-art detection rates and low false positive rates
 - **Scalability**: Can be deployed on small and large networks.
+
+## Dataset Information
+
+The NSL-KDD dataset is a refined version of the KDD'99 dataset, addressing many of the original dataset's limitations:
