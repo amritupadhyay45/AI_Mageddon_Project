@@ -23,6 +23,13 @@ The NSL-KDD dataset is a refined version of the KDD'99 dataset, addressing many 
 
 ## Installation
 
+### Prerequisites
+
+- Python 3.8+
+- Scikit-learn
+- Numpy
+- Pandas
+
 1.clone respository
 
  [git clone](intrusiondetection.ipynb)
