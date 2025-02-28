@@ -4,6 +4,8 @@
 
 The Intrusion Detection System (IDS) with AI is a security solution that leverages artificial intelligence and machine learning techniques.  It detects unauthorized access, malicious activities, and potential cyber threats in a network. 
 
+**Explore the project directly on Google Colab:** [Intrusion_detection_system](https://colab.research.google.com/drive/1D0Q-kTVpjDx9C_3doIqVrV2ptYaF0wFe?usp=sharing)
+
 ## Key Features
 
 
