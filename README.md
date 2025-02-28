@@ -20,3 +20,10 @@ The Intrusion Detection System (IDS) with AI is a security solution that leverag
 The NSL-KDD dataset is a refined version of the KDD'99 dataset, addressing many of the original dataset's limitations:
 
 **Dataset Link:** [NSL-KDD DATASET](https://www.kaggle.com/datasets/hassan06/nslkdd)
+
+## Installation
+
+1.clone respository
+
+ [git clone]()
+
