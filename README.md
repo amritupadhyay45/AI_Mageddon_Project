@@ -37,3 +37,14 @@ The NSL-KDD dataset is a refined version of the KDD'99 dataset, addressing many 
 2.Install dependiencies
  [pip install -r requirements.txt]
 
+ ## Evaluation Metrics
+
+The performance of the sentiment analysis models was evaluated using the following metrics:
+
+- **Accuracy:** Measures the overall correctness of the classification.
+- **F1-Score:** Harmonic mean of precision and recall, useful for imbalanced datasets.
+- **ROC-AUC Score:** Area under the Receiver Operating Characteristic (ROC) curve, which measures the model's ability to distinguish between positive and negative classes.
+- **Precision**: Indicates how many of the detected threats were actually malicious.
+- **False Positive Rate (FPR)**: The proportion of benign activities incorrectly classified as threats.
+- **False Negative Rate (FNR)**: The proportion of actual threats missed by the system.  
+
