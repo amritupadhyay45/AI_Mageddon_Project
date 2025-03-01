@@ -34,10 +34,7 @@ The NSL-KDD dataset is a refined version of the KDD'99 dataset, addressing many 
 
 ```bash
 # Clone the repository
-git clone 
-
-# Navigate to the project directory
-cd intrusion-detection-ai
+git clone https://github.com/amritupadhyay45/AI_Mageddon_Project/tree/main
 
 # Install required dependencies
 pip install -r requirements.txt
