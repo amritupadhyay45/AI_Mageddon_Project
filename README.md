@@ -83,11 +83,34 @@ To run the project and explore the sentiment analysis models:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/aditya001s/tweet-sentiment
+   https://github.com/amritupadhyay45/AI_Mageddon_Project
    ```
 2.Run the notebook cell by cell to preprocess data, train the model, and evaluate performance.
 
-3.Modify parameters and algorithms to experiment with different detection techniques.   
+3.Modify parameters and algorithms to experiment with different detection techniques.  
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## Contributors ✨
+
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/amritupadhyay45"><img src="https://avatars.githubusercontent.com/yourusername?v=4" width="100px;" alt=""/><br /><sub><b>Your Name</b></sub></a></td>
+  </tr>
+</table>
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+   
 
 
 
