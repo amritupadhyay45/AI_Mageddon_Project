@@ -106,7 +106,7 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/amritupadhyay45"><img src="https://avatars.githubusercontent.com/yourusername?v=4" width="100px;" alt=""/><br /><sub><b>Your Name</b></sub></a></td>
+    <td align="center"><a href="https://github.com/amritupadhyay45"><img src="https://github.com/aditya001s" width="100px;" alt=""/><br /><sub><b>Your Name</b></sub></a></td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
