@@ -57,9 +57,9 @@ The performance of the sentiment analysis models was evaluated using the followi
 
 Our Intrusion Detection System employs a sophisticated machine learning approach:
 
-- **Input Processing**: Advanced feature engineering and preprocessing
--** Feature Extraction Layer**: Uses statistical and machine learning techniques to identify important patterns.
-- **Model Type**: Deep Neural Network / Ensemble Learning
+- **Input Processing**: Advanced feature engineering and preprocessing.
+- ** Feature Extraction Layer**: Uses statistical and machine learning techniques to identify important patterns.
+- **Model Type**: Deep Neural Network / Ensemble Learning.
 - **Classification Types**:
   1. Normal Connection
   2. DoS (Denial of Service)
