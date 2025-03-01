@@ -79,6 +79,15 @@ Our Intrusion Detection System employs a sophisticated machine learning approach
 
 
 ## Usage
+To run the project and explore the sentiment analysis models:
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/aditya001s/tweet-sentiment
+   ```
+2.Run the notebook cell by cell to preprocess data, train the model, and evaluate performance.
+
+3.Modify parameters and algorithms to experiment with different detection techniques.   
 
 
 
