@@ -30,12 +30,18 @@ The NSL-KDD dataset is a refined version of the KDD'99 dataset, addressing many 
 - Numpy
 - Pandas
 
-1.clone respository
+### Setup
 
- [git clone](intrusiondetection.ipynb)
+```bash
+# Clone the repository
+git clone 
 
-2.Install dependiencies
- [pip install -r requirements.txt]
+# Navigate to the project directory
+cd intrusion-detection-ai
+
+# Install required dependencies
+pip install -r requirements.txt
+```
 
  ## Evaluation Metrics
 
@@ -73,6 +79,11 @@ Our Intrusion Detection System employs a sophisticated machine learning approach
 | Precision | 100% |
 | Recall | 99.95% |
 | F1 Score | 99.97% |
+
+
+## Usage
+
+
 
 
 
