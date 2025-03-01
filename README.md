@@ -102,16 +102,14 @@ To run the project and explore the sentiment analysis models:
 
 Thanks goes to these wonderful people:
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/amritupadhyay45"><img src="https://github.com/aditya001s" width="100px;" alt=""/><br /><sub><b>Your Name</b></sub></a></td>
-  </tr>
-</table>
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-   
+## Contributors
 
+| Name          | 
+|--------------|
+| Aditya Kumar   | 
+| Amrit Kashyap| 
+| Abhay Pratap Sharma  | 
+| Kumar Rajan Dev Patel| 
 
 
 
