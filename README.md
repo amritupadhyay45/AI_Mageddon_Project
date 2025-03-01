@@ -102,14 +102,15 @@ To run the project and explore the sentiment analysis models:
 
 Thanks goes to these wonderful people:
 
-## Contributors
-
 | Name          | 
 |--------------|
 | Aditya Kumar   | 
 | Amrit Kashyap| 
 | Abhay Pratap Sharma  | 
 | Kumar Rajan Dev Patel| 
+
+---
+
 
 
 
