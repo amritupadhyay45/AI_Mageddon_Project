@@ -69,7 +69,10 @@ Our Intrusion Detection System employs a sophisticated machine learning approach
 
 | Metric | Score |
 |--------|-------|
+| Accuracy | 99.98%|
 | Precision | 100% |
 | Recall | 99.95% |
 | F1 Score | 99.97% |
+
+
 
