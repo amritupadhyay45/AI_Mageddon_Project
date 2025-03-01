@@ -47,5 +47,20 @@ The performance of the sentiment analysis models was evaluated using the followi
 - **Precision**: Indicates how many of the detected threats were actually malicious.
 - **Recall**: Represents the system’s ability to detect actual threats.
 - **False Positive Rate (FPR)**: The proportion of benign activities incorrectly classified as threats.
-- **False Negative Rate (FNR)**: The proportion of actual threats missed by the system.  
+- **False Negative Rate (FNR)**: The proportion of actual threats missed by the system.
+
+
+## Model Architecture
+
+Our Intrusion Detection System employs a sophisticated machine learning approach:
+
+- **Input Processing**: Advanced feature engineering and preprocessing
+-** Feature Extraction Layer**: Uses statistical and machine learning techniques to identify important patterns.
+- **Model Type**: Deep Neural Network / Ensemble Learning
+- **Classification Types**:
+  1. Normal Connection
+  2. DoS (Denial of Service)
+  3. Probe
+  4. R2L (Root to Local)
+  5. U2R (User to Root)  
 
